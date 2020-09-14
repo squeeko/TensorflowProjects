@@ -1,9 +1,3 @@
-# TensorFlow 2 quickstart for beginners
+# TensorFlow 2 Tutorials from Tensorflow.org
 
-This short introduction uses Keras to:
-
-Build a neural network that classifies images.
-
-Train this neural network.
-
-And, finally, evaluate the accuracy of the model.
+This repo will be used to house tutorials for learning Tensorflow v2
